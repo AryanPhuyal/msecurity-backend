@@ -1,0 +1,9 @@
+{
+  "name": "msecurity",
+  "version": "1.0.0",
+  "description": "Backend for msecurity",
+  "main": "server.ts",
+  "repository": "git@github.com:Pharid-International/msecurity-web.git",
+  "author": "Aryan Phuyal <phuyalrn2@gmail.com>",
+  "license": "MIT"
+}
